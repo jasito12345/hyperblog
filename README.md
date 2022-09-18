@@ -5,7 +5,7 @@ Un blog para prácticar Gih y Github
 >- Alvaro GT
 
 ## Acá veremos un listado de cosas sin sentido:
-* En aca veremos algo nuevo
+* En aca veremos algo nuevo 
 * En aca veremos algo no tan nuevo
 * En aca veremos algo super nuevo
 
